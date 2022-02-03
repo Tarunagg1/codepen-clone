@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.CodeMirror{
+  height: 340px !important;
+}
+.CodeMirror-scroll{
+  background: #1d1e22;
+}
+
+.CodeMirror-gutter{
+  background: #1e1e22 !important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
